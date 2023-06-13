@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=HI-CLAIRE👋&fontSize=80" />
 
-<h1 align="center">Contact</h1>
+<!-- <h1 align="center">Contact</h1>
 <p align="center">
 <a href="mailto:claire3320@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/qyoniii/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
@@ -35,7 +35,7 @@
 <h1 align="center">BOJ</h1>
 
 [![claire3320's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=claire3320)](https://solved.ac/profile/claire3320)
-
+ -->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=100&section=footer" />
 </div>
